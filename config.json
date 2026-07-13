@@ -1,5 +1,7 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "FYNEX PAPPA" "version": "2.0.0",
+  "",
+  "version": "2.0.0",",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -11,7 +13,141 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "FYNEX BOT"😠"],
+
+  "ADMINBOT": [
+    "100001039692046",
+    "61586663640809",
+    "100044713412032"
+  ],
+  "NDH": ["100044713412032"],
+  "adminOnly": false,
+  "ndhOnly": false,
+  "adminPaOnly": false,
+
+  "APPSTATEPATH": "appstate.json",
+  "DATABASE": {
+    "sqlite": { "storage": "data.sqlite" }
+  },
+
+  "commandDisabled": [],
+  "eventDisabled": [],
+
+  "SystemeactUnsautoRestart": true,
+    "restartInterval": 86400,
+    "errorLog": true,
+    "saveCrashLogs": true,
+    "maxMemoryLimit": "1024mb"
+  },
+
+  "Performance": {
+    "cacheMessages": true,
+    "optimizeEvents": true,
+    "lazyLoadModules": true,
+    "limitConcurrentRequests": 5,
+    "autoOptimizeOnError": true,
+    "clearCacheOnCrash": truAntiAbuse": {
+    "blockSpam": true,
+    "spamThreshold": 5,
+    "autoBanSpam": true,
+    "protectAdmin": true,
+    "protectBot": true,
+    "notifyAdminOnAbuse": true
+  },
+
+  "FCAOption": {
+    "selfListen": false,
+    "listenEvents": true,
+    "listenTyping": false,
+    "updatePresence": false,
+    "forceLogin": false,
+    "autoMarkDelivery": false,
+    "autoMafalse,
+    "autoReconnect": true,
+    "logRecordSize": 100,
+    "online": false,
+    "emitReady": false,
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A356E Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+
+  "Modules": {
+    "daily": { "cooldownTime": 43200000, "rewardCoin": 1000000000 },
+    "work": { "cooldownTime": 1200000 },
+    "cave": { "cooldownTime": 2000000 },
+    "cavevip": { "cooldownTime": 1200000 },
+    "lixi": { "cooldownTime": 1100000 },
+    "anime": { "cooldownTime": 1200000 },
+    "fish": { "cooldownTime": 1000000 },
+    "job": { "cooldownTime": 5000 },
+    "diemdanh": { "cooldownTime": 3000000 },
+    "checktt": { "maxColumn": 300 },
+    "xidach": { "maxPlayers": 5, "normalWinBonus": 1, "superWinBonus": 2, "epicWinBonus": 4 },
+    "loto": { "maxPlayers": 10, "getDelay": 8 }
+  },
+
+  "MenuSettings": {
+    "help": { "autoUnsend": true, "delayUnsend": 120 },
+    "help2": { "autoUnsend": true, "delayUnsend": 300 },
+    "help3": { "autoUnsend": true, "delayUnsend": 300 },
+    "helpall": { "autoUnsend": true, "delayUnsend": 20 },
+    "menu": { "autoUnsend": true, "delayUnsend": 55 },
+    "rankup": { "autoUnsend": true, "unsendMessageAfter": 10 }
+  },
+
+  "AdminNotify": {
+    "adminNoti": { "autoUnsend": true, "sendNoti": true, "timeToUnsend": 10 },
+    "adminUpdate": { "autoUnsend": true, "sendNoti": true, "timeToUnsendd": false,
+    "autoReconnect": true,
+    "logRecordSize": 100,
+    "online": false,
+    "emitReady": false,
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A356E Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+  },
+
+  "Modules": {
+    "daily": { "cooldownTime": 43200000, "rewardCoin": 1000000000 },
+    "work": { "cooldownTime": 1200000 },
+    "cave": { "cooldownTime": 2000000 },
+    "cavevip": { "cooldownTime": 1200000 },
+    "lixi": { "cooldownTime": 1100000 },
+    "anime": { "cooldownTime": 1200000 },
+    "fish": { "cooldownTime": 1000000 },
+    "job": { "cooldownTime": 5000 },
+    "diemdanh": { "cooldownTime": 300000 "AntiAbuse": {
+    "blockSpam": true,
+    "spamThreshold": 5,
+    "autoBanSpam": true,
+    "protectAdmin": true,
+    "protectBot": true,
+    "notifyAdminOnAbuse": true
+  },
+
+  "FCAOption": {
+    "selfListen": false,
+    "listenEvents": true,
+    "listenTyping": false,
+    "updatePresence": false,
+    "forceLogin": false,
+    "autoMarkDelivery": false,
+    "autoMarkRead": false  "ADMINBOT": [
+    "100001039692046",
+    "61586663640809",
+    "100044713412032"
+  ],
+  "NDH": ["100044713412032"],
+  "adminOnly": false,
+  "ndhOnly": false,
+  "adminPaOnly": false,
+
+  "APPSTATEPATH": "appstate.json",
+  "DATABASE": {
+    "sqlite": { "storage": "data.sqlite" }
+  },
+
+  "commandDisabled": [],
+  "eventDisabled": [],
+
+  "System",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
